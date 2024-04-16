@@ -1,0 +1,2 @@
+# .github
+Plural and proud
