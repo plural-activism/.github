@@ -2,6 +2,17 @@
 
 A collection of documents, discussions, and other randomnesses, about telling the world we're cool.
 
+
+### Index :
+
+- awesome-plural
+A list of apps, websites, media, communities, links and other related resources about and around Plurality. 
+ 
+- plural-pride-walk 
+
+No
+
+
 ### Gang of curators :
 
 |System | Person | Description | Link |
