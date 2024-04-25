@@ -3,12 +3,10 @@
 A collection of documents, discussions, and other randomnesses, about telling the world we're cool.
 
 ### Gang:
+|System | Person |
+|Ziegelstein:///Zeta | The hissing possum of the gang |
+TeamConstellation:///Stella | The tired host of the gang |
 
-Ziegelstein:///Zeta
-The hissing possum of the gang
-
-TeamConstellation:///Stella
-The tired host of the gang
 
 <!--
 **Here are some ideas to get you started:**
