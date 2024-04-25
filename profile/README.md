@@ -2,6 +2,10 @@
 
 A collection of documents, discussions, and other randomnesses, about telling the world we're cool.
 
+```
+All my homies love this repo
+````
+
 
 ### Index :
 
