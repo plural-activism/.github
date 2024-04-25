@@ -2,12 +2,12 @@
 
 A collection of documents, discussions, and other randomnesses, about telling the world we're cool.
 
-### Gang:
+### Gang of curators :
 
-|System | Person | Description |
-|---|---|---|
-|Ziegelstein:///| Zeta | The hissing possum of the gang |
-| TeamConstellation:///| Stella | The tired host of the gang |
+|System | Person | Description | Link |
+|---|---|---|---|
+|Ziegelstein:///| Zeta | The hissing possum of the gang | https://github.com/ziegelstein |
+| TeamConstellation:///| Stella | The tired host of the gang | https://teamcons.carrd.co |
 
 
 <!--
