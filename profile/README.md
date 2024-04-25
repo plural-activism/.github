@@ -5,7 +5,7 @@ A collection of documents, discussions, and other randomnesses, about telling th
 ### Gang:
 |System | Person |
 |Ziegelstein:///Zeta | The hissing possum of the gang |
-TeamConstellation:///Stella | The tired host of the gang |
+| TeamConstellation:///Stella | The tired host of the gang |
 
 
 <!--
